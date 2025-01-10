@@ -1,1 +1,1 @@
-https://zig.guide/posts/a-guessing-game/
+https://zig.guide/posts/fizz-buzz
